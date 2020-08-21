@@ -1,4 +1,12 @@
+# Krzysztof Pietrzyk Github Profile
+
 ### Hi there 👋
+<p>Welcome to my public profile! 
+  
+My Certificates of Completion from Learn Enough :
+
+<a href="https://www.learnenough.com/certificates/kpietrzyk"><img src="https://www.learnenough.com/certificates/kpietrzyk/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/kpietrzyk"><img src="https://www.learnenough.com/certificates/kpietrzyk/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/kpietrzyk"><img src="https://www.learnenough.com/certificates/kpietrzyk/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/kpietrzyk"><img src="https://www.learnenough.com/certificates/kpietrzyk/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/kpietrzyk"><img src="https://www.learnenough.com/certificates/kpietrzyk/javascript-tutorial.svg" alt="Certificate of Completion for Learn Enough JavaScript"></a>
+
 
 <!--
 **kpietrzyk/kpietrzyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
