@@ -12,7 +12,7 @@ and practical automation.
 - Internal manufacturing tools
 
 ## 🚀 Current projects
-- ZOP Tools – tools and documentation management for manufacturing
+- Manu Tools – tools and documentation management for manufacturing
 - CNC/CAM workflow automation
 - Engineering utilities built with Python
 - Local AI tools for manufacturing workflows
